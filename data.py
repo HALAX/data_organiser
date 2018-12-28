@@ -1,0 +1,13 @@
+first_name = input("What is Your first name? ")
+last_name = input("What is Your last name? ")
+user_name = input("What is your user name? ")
+email = input("what is your email address? ")
+age = input("what is your age? ")
+password = input("what is your password? ")
+
+print(" Your First Name is -> " + first_name)
+print(" Your Lasr Name is -> " + last_name)
+print(" Your User Name is -> " + user_name)
+print(" Your Email Address is -> " + email)
+print(" Your age is -> " + age)
+print(" Your password is -> " + password)
